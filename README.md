@@ -1,1 +1,1 @@
-# q3
+3.	In each iteration, Python assigns the next value from the sequence to i, regardless of any changes you make to i inside the loop body. modifying the loop variable i inside a for loop does not affect the loop’s control
